@@ -11,6 +11,7 @@ class Profile extends React.Component {
       <div className="Profile">
         <Menu isAuthenticated={this.props.isAuthenticated} />
         <Messages username={this.props.match.params.username} />
+        
       </div>
     );
   }
