@@ -1,0 +1,8 @@
+body {
+    background-image: url(../components/images/800x600_Wallpaper_Blue_Sky.png); 
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* border-collapse: collapse ; */
+    z-index: 1;
+    background-size: cover;
+}
